@@ -66,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://fakeshop-1glk.onrender.com/)
+- [Live Demo Link](https://fakeshop.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
